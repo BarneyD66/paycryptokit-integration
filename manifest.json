@@ -8,31 +8,31 @@
       "kind": "sdk",
       "name": "@yourpay/sdk",
       "version": "0.1.0",
-      "path": "/downloads/paycryptokit-sdk-0.1.0-e3534f9677c1cffc.tgz",
-      "sha256": "e3534f9677c1cffc13a149bcb6b6469a28c20ce10227f6b533b713563961b2c6",
-      "bytes": 10809
+      "path": "/downloads/paycryptokit-sdk-0.1.0-abe28a0390101d4b.tgz",
+      "sha256": "abe28a0390101d4b767745fd14ca0fe277c8b07e1f1d0be252cad7c5fb8fc589",
+      "bytes": 11637
     },
     {
       "kind": "cli",
       "name": "@yourpay/cli",
       "version": "0.1.0",
-      "path": "/downloads/paycryptokit-cli-0.1.0-11e4b680546b1bb0.tgz",
-      "sha256": "11e4b680546b1bb0c90e2387d1febc1882d0921cdf0312f244f6fbeb240fccd3",
-      "bytes": 26727
+      "path": "/downloads/paycryptokit-cli-0.1.0-3995980dda95db28.tgz",
+      "sha256": "3995980dda95db2892789c710ef2b5018b0e0dae90225ca80f18773d1edf6037",
+      "bytes": 32313
     },
     {
       "kind": "mcp",
       "name": "@yourpay/mcp",
       "version": "0.1.0",
-      "path": "/downloads/paycryptokit-mcp-0.1.0-9f0a4b10c2524f4e.tgz",
-      "sha256": "9f0a4b10c2524f4e154ac98415f3b57362f03a367aec5f1adabd906309793a9c",
-      "bytes": 6761
+      "path": "/downloads/paycryptokit-mcp-0.1.0-00c6a78c50e8347f.tgz",
+      "sha256": "00c6a78c50e8347fda122914461e67943ea89f57bf8ead4da664fb18146a67d6",
+      "bytes": 7815
     }
   ],
   "skill": {
-    "path": "/downloads/yourpay-integrate-6f50ea3cc703142d.md",
-    "sha256": "6f50ea3cc703142d1169e0148ea5e4d0bbd2850e9fe9a15ee2796ae24ec2227f",
-    "bytes": 14439
+    "path": "/downloads/yourpay-integrate-ed55ce827f13a5bf.md",
+    "sha256": "ed55ce827f13a5bfe9c70be3f2a7e1fbd6f29f22d8efd38e78089504a93338d0",
+    "bytes": 17135
   },
   "retained": [],
   "sourceOrigin": "https://paycryptokit.com"
