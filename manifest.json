@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "channel": "development-preview",
+  "livePaymentsVerified": false,
+  "nodeMajor": 24,
+  "packages": [
+    {
+      "kind": "sdk",
+      "name": "@yourpay/sdk",
+      "version": "0.1.0",
+      "path": "/downloads/paycryptokit-sdk-0.1.0-4cc1f4bbc03f3f5f.tgz",
+      "sha256": "4cc1f4bbc03f3f5f31951d3cfb436052120ac935c66835fe9af5dce3a4e84b1b",
+      "bytes": 10834
+    },
+    {
+      "kind": "cli",
+      "name": "@yourpay/cli",
+      "version": "0.1.0",
+      "path": "/downloads/paycryptokit-cli-0.1.0-bc49d70a55185657.tgz",
+      "sha256": "bc49d70a5518565764b251f556ad04e9a33c15f9d74c55ccd34e5f2d4b78dae3",
+      "bytes": 26535
+    },
+    {
+      "kind": "mcp",
+      "name": "@yourpay/mcp",
+      "version": "0.1.0",
+      "path": "/downloads/paycryptokit-mcp-0.1.0-5c70a63d164209f8.tgz",
+      "sha256": "5c70a63d164209f81b1fdc0074cc343e72d3720ccce0a85b306c21376e40f900",
+      "bytes": 6783
+    }
+  ],
+  "skill": {
+    "path": "/downloads/yourpay-integrate-7ea0b956fc722f81.md",
+    "sha256": "7ea0b956fc722f81610e25bf8089d09dab2faed1b992039bbb629f4c851a4873",
+    "bytes": 13854
+  },
+  "retained": [],
+  "sourceOrigin": "https://paycryptokit.com"
+}
